@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'HLXSJT-TTF-Font';
+    font-display: swap;
+    src: url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HongLeiXingShuJianTi/HongLeiXingShuJianTi-2.otf') format("truetype");
+}
+
+@font-face {
+    font-family: 'HLXSJT-WOFF2-Font';
+    font-display: swap;
+    src: url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HongLeiXingShuJianTi/HongLeiXingShuJianTi-2.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: 'HKLSSXT-TTF-Font';
+    font-display: swap;
+    src: url('https://cdn.jsdmirror.cn/gh/jieniyou/cdn-files@lin/font/HuangKaiLvShiShouXieTi/huangkaihuaLawyerfont-2.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'HKLSSXT-WOFF2-Font';
+    font-display: swap;
+    src: url('https://cdn.jsdmirror.cn/gh/jieniyou/cdn-files@lin/font/HuangKaiLvShiShouXieTi/huangkaihuaLawyerfont-2.woff2') format("woff2");
+}

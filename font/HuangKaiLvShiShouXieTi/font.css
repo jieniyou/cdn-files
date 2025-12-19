@@ -1,5 +1,11 @@
 @font-face {
-    font-family: 'HKLSSXT-Font';
+    font-family: 'HKLSSXT-TTF-Font';
     font-display: swap;
     src: url('https://cdn.jsdmirror.cn/gh/jieniyou/cdn-files@lin/font/HuangKaiLvShiShouXieTi/huangkaihuaLawyerfont-2.ttf') format("truetype");
+}
+
+@font-face {
+    font-family: 'HKLSSXT-WOFF2-Font';
+    font-display: swap;
+    src: url('https://cdn.jsdmirror.cn/gh/jieniyou/cdn-files@lin/font/HuangKaiLvShiShouXieTi/huangkaihuaLawyerfont-2.woff2') format("woff2");
 }
