@@ -6,10 +6,10 @@
     crossorigin: anonymous;
     src:
             local('HongLeiXingShuJianTi'),
-            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HongLeiXingShuJianTi/HongLeiXingShuJianTi-2.woff2') format('woff2'), /* 现代浏览器优先 */
-            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HongLeiXingShuJianTi/HongLeiXingShuJianTi-2.woff') format('woff'), /* 新增 WOFF  fallback */
-            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HongLeiXingShuJianTi/HongLeiXingShuJianTi-2.otf') format('opentype'), /* 兼容 OTF 支持的浏览器 */
-            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HongLeiXingShuJianTi/HongLeiXingShuJianTi-2.ttf') format('truetype'); /* 最终 fallback */
+            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HongLeiXingShuJianTi/HongLeiXingShuJianTi-2.woff2') format('woff2'),
+            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HongLeiXingShuJianTi/HongLeiXingShuJianTi-2.woff') format('woff'),
+            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HongLeiXingShuJianTi/HongLeiXingShuJianTi-2.otf') format('opentype'),
+            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HongLeiXingShuJianTi/HongLeiXingShuJianTi-2.ttf') format('truetype');
 }
 
 @font-face {
@@ -20,7 +20,7 @@
     crossorigin: anonymous;
     src:
             local('HuangKaiLvShiShouXieTi'),
-            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HuangKaiLvShiShouXieTi/huangkaihuaLawyerfont-2.woff2') format('woff2'), /* 现代浏览器优先 */
-            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HuangKaiLvShiShouXieTi/huangkaihuaLawyerfont-2.woff') format('woff'), /* 新增 WOFF  fallback */
-            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HuangKaiLvShiShouXieTi/huangkaihuaLawyerfont-2.ttf') format('truetype'); /* 最终 fallback */
+            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HuangKaiLvShiShouXieTi/huangkaihuaLawyerfont-2.woff2') format('woff2'),
+            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HuangKaiLvShiShouXieTi/huangkaihuaLawyerfont-2.woff') format('woff'),
+            url('https://cdn.jsdmirror.com/gh/jieniyou/cdn-files@lin/font/HuangKaiLvShiShouXieTi/huangkaihuaLawyerfont-2.ttf') format('truetype');
 }
